@@ -8,6 +8,8 @@ body {
   font-family: lato;
   font-size: 18px;
   background-image: url(../images/map-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 nav {
   font-family: sans-serif;
